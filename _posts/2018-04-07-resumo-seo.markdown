@@ -1,7 +1,13 @@
 ---
-title: SEO: Aplicações
-author: Grupo SEO
 layout: post
+comments: true
+title:  "SEO Aplicações"
+subtitle: "Um breve Resumo"
+author: Grupo SEO
+date:   2018-04-06 09:00:00 -0300
+last_modified_at: 2018-04-08 20:00:00 -0300
+category: SEO
+tags: ["marketing", "marketing digital", "SEO"]
 ---
 
 <h1>SEO E SUAS APLICAÇÕES</h1>
