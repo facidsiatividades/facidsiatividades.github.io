@@ -1,0 +1,59 @@
+   <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="{{ site.description }}">
+    <meta name="author" content="{{ site.copyright_name}}">
+    <a rel="author" href="https://google.com/+{{site.google_plus_username}}"></a>
+    <meta name="keywords" content="{{site.keywords}}">
+
+    <title>{% if page.title %} {{ page.title }} | {% endif %} {{site.title}}</title>
+
+    <link rel="canonical" href="{{page.url | prepend : site.url }}">
+
+    <link rel=”alternate” href=”{{ site.url }}” hreflang=”pt-br” />
+
+    <link rel="icon" type="image/png" href="{{ '/imgs/logo-fav-victor.png' | prepend: site.baseurl }}">
+
+    <!-- Bootstrap core CSS -->
+    <link href="{{ '/vendor/bootstrap/css/bootstrap.min.css' | prepend: site.baseurl }}" rel="stylesheet">
+
+    <!-- Custom fonts for this template -->
+    <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:100,200,300,400,500,600,700,800,900" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i" rel="stylesheet">
+    <link href="{{ '/vendor/font-awesome/css/font-awesome.min.css' | prepend: site.baseurl }}" rel="stylesheet">
+    <link href="{{ '/vendor/devicons/css/devicons.min.css' | prepend: site.baseurl }}" rel="stylesheet">
+    <link href="{{ '/vendor/simple-line-icons/css/simple-line-icons.css' | prepend: site.baseurl }}" rel="stylesheet">
+
+
+     <!-- Meta Tags Open Graph Protocol. See more: http://ogp.me/ -->
+
+     <meta property="og:locale" content="pt_BR">
+     <meta property="og:locale:alternate" content="en_US">
+     <meta property="og:locale:alternate" content="es_ES">
+     <meta property="og:site_name" content="{{site.title}}">
+     <meta property="og:title" content="{% if page.title %}{{ page.title }} | {% endif %} {{site.title}}">
+     <meta property="og:url" content="{{ page.url | prepend: site.url}}">
+
+
+     <!-- OGP to profile -->
+     <meta property="og:type" content="profile">
+     <meta property="profile:first_name" content="{{site.firstname}}">
+     <meta property="profile:last_name" content="{{site.lastname}}">
+     <meta property="profile:gender" content="male">
+
+
+     <!-- OGP to images -->
+    <meta property="og:image" content="{{site.avatar}}">
+    <meta property="og:image:type" content="image/jpg">
+    <meta property="og:image:width" content="460">
+    <meta property="og:image:height" content="460">
+
+    {% if jekyll.environment == 'production' %}
+      {% include analytics.html%}
+    {% endif%}
+
+    {% include json_ld_person.html %}
+
+
+  </head>

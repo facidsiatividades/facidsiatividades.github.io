@@ -1,0 +1,96 @@
+---
+layout: default
+title: "Blog Grupo SEO"
+description: "simples blog sobre assunto de Marketing Digital"
+---
+
+
+<!-- Blog Section -->
+<!-- Main Content -->
+    <div class="container">
+
+      <div class="row" id="posts">
+        <div class="col-lg-8 col-md-10 mx-auto">
+
+
+        {% if paginator.posts%}
+
+
+            {% for post in paginator.posts %}
+
+           <!-- post -->
+          <div class="post-preview">
+            <a href="{{ post.url | prepend: site.baseurl }}" title="{{post.title}}">
+              <h2 class="post-title">
+               {{ post.title }}
+              </h2>
+              {% if post.subtitle %}
+                <h3 class="post-subtitle">
+                    {{ post.subtitle }}
+                </h3>
+              {% endif %}
+            </a>
+            <p class="post-meta">Por
+              <a href="{{site.baseurl}}/pesquisar/?q={{post.author | slugfy}}" title="Pesquisar: {{post.author}}">{{post.author}}</a>
+              em {{ post.date | date: "%d %b %Y" }}
+              <i class="fa fa-folder-open" aria-hidden="true"></i>
+                  {% for category in post.categories %}
+                    <a href="{{site.baseurl}}/pesquisar/?q={{category | slugfy}}" title="Pesquisar: {{category}}">
+                      {{category}}{% unless forloop.last %}, {% endunless %}
+                    </a>
+                  {% endfor %} 
+              </p>
+          </div>
+          <hr>
+          <!-- end post -->
+            
+            {% endfor %}
+
+        {% else %}
+          <!-- post -->
+          <div class="post-preview">
+            <a href="post.html" title="Desculpe, não há posts disponíveis. :(">
+              <h2 class="post-title">
+                Desculpe, não há posts disponíveis. :(
+              </h2>
+
+            </a>
+            <p class="post-meta">Por
+              <a href="{{site.baseurl}}/pesquisar/?q={{site.copyright_name | slugfy}}" title="Pesquisar: {{site.copyright_name}}">{{site.copyright_name}}</a>
+              em {{ post.date | date: "%d %b %Y" }}</p>
+          </div>
+          <hr>
+          <!-- end post -->
+        {% endif %}
+
+
+        <!-- pagination -->
+
+          <div class=clearfix>
+            
+          <div class="blog-pages text-md-center">
+            <span class="text-primary">Página {{ paginator.page }} de {{paginator.total_pages}}</span>
+          </div>
+
+          {% if paginator.previous_page %}
+            <a  class="btn btn-primary" href="{{ paginator.previous_page_path | prepend: site.baseurl }}" title="Recentes">
+              &larr; Recentes
+            </a>
+          {% endif %}
+
+
+          {% if paginator.next_page %}
+            <a class="btn btn-primary float-right" href="{{ paginator.next_page_path | prepend: site.baseurl }}" title="Antigos">
+             Antigos &rarr;
+            </a>
+          {% endif %}
+
+
+          </div>
+
+        </div>
+      </div>
+    </div>
+<!-- End Blog Section -->
+
+<hr>
