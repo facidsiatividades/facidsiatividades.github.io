@@ -1,0 +1,44 @@
+---
+title: 4 Ps de Marketing Digital
+author: Grupo SEO
+layout: post
+icon:
+---
+<!-- icon: fa-lightbulb-o -->
+
+<!--<h2>Os 4 Ps de Marketing ganham reforço</h2></br></br>-->
+
+A base de qualquer estratégia de Marketing Digital ou não, deve levar em consideração os 4Ps de Jerome Mc Carthy. São eles:</br>
+
+<ul>
+	<li>Produto: aquilo que será vendido para o cliente;</li>
+	<li>Preço: estratégias de precificação, produtos com diferencial maior tendem a ser mais caros;</li>
+	<li>Praça: onde e como esse produto será distribuído e vendido;</li>
+	<li>Propaganda: como o público-alvo tomará conhecimento do produto.</li>
+</ul>
+
+E essa é uma estratégia que costuma ser definida de dentro para fora da empresa, sem necessariamente levar em consideração a opinião de seus clientes.</br></br>
+
+Porém, é justamente essa parte que está mudando com a adição de um item que não pertencia a essa fórmula: a co-criação.</br></br>
+
+Os clientes verdadeiramente apaixonados por sua marca, querem contribuir com ideias não só de produtos, mas de propagandas e até mesmo na definição de preços.</br></br>
+
+Um exemplo bastante interessante é o da marca de salgadinhos Doritos.</br></br>
+
+Ao invés de contratar uma agência de publicidade para fazer sua campanha, a marca decidiu ir até seu público e lançar um desafio.</br></br>
+
+Produzir um vídeo de 30 segundos, com uma ideia fantástica para o seu próximo comercial a ser exibido no SuperBowl, um dos maiores eventos esportivos dos Estados Unidos e também um dos locais mais importantes para se anunciar um produto, devido à grande audiência.</br></br>
+
+O ganhador levaria não só um prêmio de 1 milhão de dólares mas também um contrato de trabalho com a Universal Pictures. Nada mal!</br></br>
+
+Este é o vídeo que a marca Doritos chama os seus consumidores a participar:</br></br>
+
+videooooo
+
+</br></br>
+
+O resultado tem sido tão favorável para a empresa, que há cerca de 8 anos essa é a maneira usada para divulgar a marca.</br></br>
+
+Prova de que, cada vez mais, a interação com o público-alvo é o que fará o verdadeiro diferencial do seu produto ou serviço.</br></br>
+
+O marketing tradicional, conhecido como aquele que empurra produtos e serviços está perdendo cada vez mais espaço para o novo marketing, onde você produz algo relevante e instiga o cliente a vir até você.</br></br></br>
