@@ -45,6 +45,43 @@ h1 {
 h2 {
   font-size: 2.5rem; }
 
+/*
+Adicionando config extras - Herald
+*/
+.cab-hf{
+  display: block;
+}
+
+div#left{
+  display: block;
+  width: 50%;
+  min-height: 100%;
+  float: left;
+}
+
+div#right{
+  display: block;
+  width: 50%;
+  min-height: 100%;
+  float: right;
+}
+
+.text-primary-hf {
+  color: #1aa3ff !important; 
+}
+
+.subheading-hf {
+  text-transform: uppercase;
+  font-weight: 500;
+  font-family: 'Saira Extra Condensed', serif;
+  font-size: 1.35rem;
+  line-height: 200% 
+}
+
+/*
+fim - Herald
+*/
+
 .resume-subheading, .resume-name, .resume-description, .resume-social{
   text-align: center;
 }
