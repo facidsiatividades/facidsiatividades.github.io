@@ -30,7 +30,7 @@ Este tipo de pesquisa — também conhecida como pesquisa de atalho — é reali
 
 Por exemplo, se o usuário busca por “Rock Content” ou “blog da Rock Content” para encontrar nossos conteúdos, sua intenção de pesquisa é clara e, por isso, são poucas as chances deste usuário mudar seu destino final na web — essa pessoa já sabe o que procura.
 
-![seo pesquisa google](/assets/images/o-que-e-seo.png)
+![seo pesquisa google](/imgs/o-que-e-seo.png)
  
 
 	Pesquisa ou busca informacional
@@ -40,14 +40,14 @@ Ao contrário da pesquisa navegacional, nesse caso o usuário não sabe exatamen
 
 Por não saber exatamente qual site quer visitar, o usuário tende a utilizar os resultados orgânicos para procurar a solução da sua dúvida ou necessidade, e é nesse momento que o bom posicionamento do seu blog ou site é algo vantajoso para os negócios. Veja um exemplo de pesquisa informacional:
 
-![seo marketing digital ](/assets/images/o-que-e-seo-2.png)
+![seo marketing digital ](/imgs/o-que-e-seo-2.png)
  
 
 	Pesquisa ou busca transacional
 
 Nesse tipo de pesquisa o usuário está buscando executar uma transação. Seja comprar diretamente um produto, encontrar uma loja, ou fazer qualquer outro tipo de transação online. Esse tipo de pesquisa é extremamente valiosa, especialmente para e-commerces.
 
-![ceo empresa publicidade marketing](/assets/images/o-que-e-seo-3.png)
+![ceo empresa publicidade marketing](/imgs/o-que-e-seo-3.png)
  
 
 **Principais fatores para o rankeamento do Google**
@@ -96,7 +96,7 @@ Os principais fatores de atenção em um título On Page:
 O SEO Title é o título que aparece nas SERPs e possui a função de levar o leitor até o seu conteúdo.
 Um exemplo bem simples: 
 
-![seo remarketing](/assets/images/remark.png)
+![seo remarketing](/imgs/remark.png)
 
 Ele é um dos fatores mais importantes tanto para rankeamento quanto para garantir uma alta taxa de cliques (CTR) no seu conteúdo.
 
@@ -113,7 +113,7 @@ Além disso, quanto mais amigável ela for, mais fácil para os leitores clicare
 
 Um exemplo de URL amigável:
 
-![seo marketing conteudo](/assets/images/o-que-e-seo-7.png)
+![seo marketing conteudo](/imgs/o-que-e-seo-7.png)
  
 Quanto menos elementos além da palavra-chave tiver na sua URL, melhor. É importante evitar o uso de números em listas, por exemplo. Caso você atualize e amplie aquela lista, você terá um número errado na sua URL. E uma das principais regras de SEO é: **nunca atualize a sua URL depois do conteúdo ser indexado.**
 
@@ -173,11 +173,11 @@ Atualmente o Google faz uma análise semântica dos textos, chamado LSI (Latex S
 
 Como no exemplo abaixo:
 
-![seo palavra-chave](/assets/images/o-que-e-seo-9.png)
+![seo palavra-chave](/imgs/o-que-e-seo-9.png)
                 
 Além disso é mais importante usar variações daquela palavra-chave do que fazer um uso estrito da mesma. Segue o exemplo:
 
-![seo palavras-chave](/assets/images/o-que-e-seo-10.png) 
+![seo palavras-chave](/imgs/o-que-e-seo-10.png) 
                 
 **Tempo de permanência na página**
 
