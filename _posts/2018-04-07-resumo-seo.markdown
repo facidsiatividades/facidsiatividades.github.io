@@ -174,7 +174,7 @@ Atualmente o Google faz uma análise semântica dos textos, chamado LSI (Latex S
 
 Como no exemplo abaixo:
 
-![seo palavra-chave](/imgs/o-que-e-seo-9-iloveimg-resized.png)
+![seo palavra-chave](/imgs/o-que-e-seo-9-new.png)
                 
 Além disso é mais importante usar variações daquela palavra-chave do que fazer um uso estrito da mesma. Segue o exemplo:
 
