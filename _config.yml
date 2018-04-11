@@ -68,3 +68,5 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+#permalink: /:category/:tit
