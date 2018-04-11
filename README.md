@@ -16,13 +16,13 @@ I used two templates bootstrap,
 So, if you want to download this project almost all you will need change is in `_config.yml`, the page `index.html`, `sitemap.xml` and some pages that are in portuguese.
 
 You also have to delete the file `
-google59e721dc98067966.html` because is my site verification in Google.
+googlebce03ad290d3350a.html` because is my site verification in Google.
 
 # Installation
 
 Make sure that you have [**Ruby**][ruby], [**Jekyll**][jekyll] and [**Git**][git] installed and in your terminal put the command:
 
-	git clone https://github.com/VictorHolanda21/victorholanda21.github.io.git
+	git clone https://github.com/facidsiatividades/facidsiatividades.github.io.git
 
 So, enter in the project's directory and run the command:
 	

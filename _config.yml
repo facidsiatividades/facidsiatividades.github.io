@@ -26,7 +26,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://facidsiatividades.github.io/"
 
 description: >- # this means to ignore newlines until "baseurl:"
-  Confira abaixo as especificações do trabalho, a equipe e o seu desenvolvimento!
+  Confira as especificações do trabalho, a equipe e o seu desenvolvimento!
 
 keywords: SEO, Marketing Digital, Mercado Digital, Publicidade, Sitemap, Google Analytics, Markdown, Marketing, Jekyll, Teresina, Piauí, Brasil, 
 
