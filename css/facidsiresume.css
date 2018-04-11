@@ -45,9 +45,7 @@ h1 {
 h2 {
   font-size: 2.5rem; }
 
-/*
-Adicionando config extras - Herald
-*/
+/* CONFIG EXTRA - HERALD */
 .cab-hf{
   display: block;
 }
@@ -78,9 +76,15 @@ div#right{
   line-height: 200% 
 }
 
-/*
-fim - Herald
-*/
+p#subheading-hf-p {
+  text-transform: uppercase;
+  font-weight: 500;
+  font-family: 'Saira Extra Condensed', serif;
+  font-size: 1.35rem;
+  line-height: 100% 
+}
+
+/* FIM CONFIG EXTRA - Herald */
 
 .resume-subheading, .resume-name, .resume-description, .resume-social{
   text-align: center;

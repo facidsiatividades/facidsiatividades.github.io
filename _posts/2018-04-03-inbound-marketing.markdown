@@ -4,8 +4,8 @@ comments: true
 title:  "Inbound Marketing"
 subtitle: "Um pouco sobre o marketing aplicado na Internet"
 author: Grupo SEO
-date:   2018-04-09 19:20:00 -0300
-last_modified_at: 2018-04-10 19:20:00 -0300
+date:   2018-04-03 19:20:00 -0300
+last_modified_at: 2018-04-03 19:20:00 -0300
 categories: Marketing
 tags: ["atração", "conversão", "conteúdo", "produto", "venda", "inbound", "outbound"]
 ---

@@ -4,8 +4,8 @@ comments: true
 title:  "Olá, Github pages"
 subtitle: "Como criei meu site/blog"
 author: Grupo SEO
-date:   2018-04-08 09:00:00 -0300
-last_modified_at: 2018-04-08 20:00:00 -0300
+date:   2018-03-28 09:00:00 -0300
+last_modified_at: 2018-04-01 20:00:00 -0300
 category: Tecnologia
 tags: ["github", "github pages", "jekyll", "hospedagem"]
 ---

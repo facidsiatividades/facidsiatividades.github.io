@@ -4,8 +4,8 @@ comments: true
 title:  "4 Ps de Marketing Digital"
 subtitle: "O que é e como usar?"
 author: Grupo SEO
-date:   2017-11-12 22:00:00 -0300
-last_modified_at: 2017-11-14 20:00:00 -0300
+date:   2018-04-09 07:00:00 -0300
+last_modified_at: 2018-04-09 09:00:00 -0300
 category: Marketing Digital
 tags: ["marketing", "marketing digital", "SEO"]
 ---

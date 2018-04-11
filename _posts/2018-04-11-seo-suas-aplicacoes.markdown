@@ -1,12 +1,12 @@
 ---
 layout: post
 comments: true
-title:  "SEO Aplicações"
+title:  "SEO - Suas Aplicações"
 subtitle: "Um breve Resumo"
 author: Grupo SEO
-date:   2018-04-06 09:00:00 -0300
-last_modified_at: 2018-04-08 20:00:00 -0300
-category: SEO
+date:   2018-04-11 06:00:00 -0300
+last_modified_at: 2018-04-11 09:50:00 -0300
+category: Marketing Digital
 tags: ["marketing", "marketing digital", "SEO"]
 ---
 
@@ -97,7 +97,7 @@ Os principais fatores de atenção em um título On Page:
 O SEO Title é o título que aparece nas SERPs e possui a função de levar o leitor até o seu conteúdo.
 Um exemplo bem simples: 
 
-![seo remarketing](/imgs/remark.png)
+![seo remarketing](/imgs/remark2.png)
 
 Ele é um dos fatores mais importantes tanto para rankeamento quanto para garantir uma alta taxa de cliques (CTR) no seu conteúdo.
 
@@ -174,7 +174,7 @@ Atualmente o Google faz uma análise semântica dos textos, chamado LSI (Latex S
 
 Como no exemplo abaixo:
 
-![seo palavra-chave](/imgs/o-que-e-seo-9-new.png)
+![seo palavra-chave](/imgs/o-que-e-seo-9.png)
                 
 Além disso é mais importante usar variações daquela palavra-chave do que fazer um uso estrito da mesma. Segue o exemplo:
 

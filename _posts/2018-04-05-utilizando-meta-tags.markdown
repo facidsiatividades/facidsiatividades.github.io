@@ -4,8 +4,8 @@ comments: true
 title:  "Utilizando Meta tags"
 subtitle: "O que é e como usar?"
 author: Grupo SEO
-date:   2018-04-01 17:20:00 -0300
-last_modified_at: 2018-04-02 20:00:00 -0300
+date:   2018-04-05 17:20:00 -0300
+last_modified_at: 2018-04-06 20:00:00 -0300
 categories: [Tecnologia, Marketing Digital]
 tags: ["meta tags", "tutorial", "SEO"]
 ---
