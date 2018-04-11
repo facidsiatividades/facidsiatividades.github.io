@@ -11,7 +11,6 @@ tags: ["marketing", "marketing digital", "SEO"]
 ---
 
 
-<h2>Os 4 Ps de Marketing ganham reforço</h2>
 
 A base de qualquer estratégia de Marketing Digital ou não, deve levar em consideração os 4Ps de Jerome Mc Carthy. São eles:
 
