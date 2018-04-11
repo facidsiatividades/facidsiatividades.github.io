@@ -6,7 +6,7 @@ subtitle: "Usando Disqus para moderar comentários no seu blog"
 author: Grupo SEO
 date:   2018-04-01 16:00:00 -0300
 last_modified_at: 2018-04-01 20:00:00 -0300
-categories: [Tecnologia]
+category: Tecnologia
 tags: ["disqus", "tutorial", "moderar", "comentários"]
 ---
 

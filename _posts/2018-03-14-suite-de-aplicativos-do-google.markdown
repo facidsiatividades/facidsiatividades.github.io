@@ -6,7 +6,7 @@ subtitle: "Ferramentas de produtividades do Google"
 author: Grupo SEO
 date:   2018-03-14 00:20:00 -0300
 last_modified_at: 2018-03-15 20:00:00 -0300
-categories: Tecnologia
+category: Tecnologia
 tags: ["aplicativos", "tutorial", "Google", "cloud", "search", "documentos", "planilhas", "agenda", "drive", "formularios", "keep"]
 ---
 

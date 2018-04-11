@@ -6,7 +6,7 @@ subtitle: "Um breve Resumo"
 author: Grupo SEO
 date:   2018-04-11 06:00:00 -0300
 last_modified_at: 2018-04-11 09:50:00 -0300
-category: Marketing Digital
+category: SEO
 tags: ["marketing", "marketing digital", "SEO"]
 ---
 

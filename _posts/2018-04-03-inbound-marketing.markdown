@@ -6,7 +6,7 @@ subtitle: "Um pouco sobre o marketing aplicado na Internet"
 author: Grupo SEO
 date:   2018-04-03 19:20:00 -0300
 last_modified_at: 2018-04-03 19:20:00 -0300
-categories: Marketing
+category: Marketing
 tags: ["atração", "conversão", "conteúdo", "produto", "venda", "inbound", "outbound"]
 ---
 

@@ -6,7 +6,7 @@ subtitle: "O que é e como usar?"
 author: Grupo SEO
 date:   2018-04-06 22:00:00 -0300
 last_modified_at: 2018-04-09 20:00:00 -0300
-category: Marketing Digital
+category: Marketing
 tags: ["marketing", "marketing digital", "SEO"]
 ---
 <!-- <h2 style="text-align: center;">Marketing Digital</h2></br> -->
