@@ -35,9 +35,9 @@ As meta tags utilizadas neste blog, que serão dividas em 4 partes, são as segu
 
 1.	<meta charset="utf-8">
 2.	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-3.	<meta name="description" content="Amante de tecnologia, gestão e projetos. Com dedicação, sigo em busca de alcançar todos os meus objetivos pessoais, acadêmicos e profissionais.">
-4.	<meta name="author" content="Victor Holanda">
-5.	<meta name="keywords" content="Blog Pessoal, Victor Holanda, Administração, Tecnologia, Teresina, Piaui">
+3.	<meta name="description" content="Blog criado com técnicas de SEO como pratica do trabalho sobre SEO - Search Engine Optimization">
+4.	<meta name="author" content="Grupo SEO">
+5.	<meta name="keywords" content="SEO, Marketing Digital, Mercado Digital, Publicidade, Sitemap, Google Analytics, Markdown, Marketing, Jekyll, Teresina, Piauí, Brasil">
 
 {% endhighlight %}
 
@@ -76,9 +76,9 @@ O [protocolo Open Graph][6]{:target="_blank"} permite que qualquer página da we
 1.     <meta property="og:locale" content="pt_BR">  
 1.1.   <meta property="og:locale:alternate" content="en_US">
 1.2.   <meta property="og:locale:alternate" content="es_ES">
-2.     <meta property="og:site_name" content="Victor Holanda">
-3.     <meta property="og:title" content="Utilizando Meta Tags |  Victor Holanda">
-4.     <meta property="og:url" content="http://victorholanda21.github.io/tecnologia/2017/11/12/utilizando-meta-tags.html">
+2.     <meta property="og:site_name" content="Grupo SEO">
+3.     <meta property="og:title" content="Utilizando Meta Tags |  Grupo SEO">
+4.     <meta property="og:url" content="http://facidsi.github.io/tecnologia/2017/11/12/utilizando-meta-tags.html">
 
 {% endhighlight %}
 
@@ -95,7 +95,7 @@ O [protocolo Open Graph][6]{:target="_blank"} permite que qualquer página da we
 {% highlight html %}
 
 1.     <meta property="og:type" content="article">
-2.     <meta property="article:author" content="Victor Holanda">
+2.     <meta property="article:author" content="Grupo SEO">
 3.     <meta property="article:section" content="Tecnologia">
 4.     <meta property="article:tag" content="meta tags, tutorial">
 5.     <meta property="article:published_time" content="2017-11-12">

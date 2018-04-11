@@ -26,9 +26,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://facidsiatividades.github.io/"
 
 description: >- # this means to ignore newlines until "baseurl:"
-  Confira as especificações do trabalho, a equipe e o seu desenvolvimento!
+  Blog criado com técnicas de SEO como pratica do trabalho sobre SEO - Search Engine Optimization
 
-keywords: SEO, Marketing Digital, Mercado Digital, Publicidade, Sitemap, Google Analytics, Markdown, Marketing, Jekyll, Teresina, Piauí, Brasil, 
+keywords: SEO, Marketing Digital, Mercado Digital, Publicidade, Sitemap, Google Analytics, Markdown, Marketing, Jekyll, Teresina, Piauí, Brasil
 
 github_username: facidsiatividades
 facebook_username: 
