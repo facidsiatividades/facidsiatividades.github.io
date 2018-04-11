@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  
+     <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Confira abaixo as especificações do trabalho, a equipe e o seu desenvolvimento!">
+    <meta name="author" content="Grupo sobre SEO">
+    <a rel="author" href="https://google.com/+"></a>
+    <meta name="keywords" content="SEO, Marketing Digital, Mercado Digital, Publicidade, Sitemap, Google Analytics, Markdown, Marketing, Jekyll, Teresina, Piauí, Brasil,">
+
+    <title> População Mundial ao longo do tempo |  Grupo sobre SEO</title>
+
+    <link rel="canonical" href="http://localhost:4000/demo/demo-chartjs.html">
+
+    <link rel=”alternate” href=”http://localhost:4000” hreflang=”pt-br” />
+
+    <link rel="icon" type="image/png" href="/imgs/logo-fav-victor.png">
+
+    <!-- Bootstrap core CSS -->
+    <link href="/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom fonts for this template -->
+    <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:100,200,300,400,500,600,700,800,900" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i" rel="stylesheet">
+    <link href="/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link href="/vendor/devicons/css/devicons.min.css" rel="stylesheet">
+    <link href="/vendor/simple-line-icons/css/simple-line-icons.css" rel="stylesheet">
+
+
+     <!-- Meta Tags Open Graph Protocol. See more: http://ogp.me/ -->
+
+     <meta property="og:locale" content="pt_BR">
+     <meta property="og:locale:alternate" content="en_US">
+     <meta property="og:locale:alternate" content="es_ES">
+     <meta property="og:site_name" content="Grupo sobre SEO">
+     <meta property="og:title" content="População Mundial ao longo do tempo |  Grupo sobre SEO">
+     <meta property="og:url" content="http://localhost:4000/demo/demo-chartjs.html">
+
+
+     <!-- OGP to profile -->
+     <meta property="og:type" content="profile">
+     <meta property="profile:first_name" content="Grupo">
+     <meta property="profile:last_name" content="SEO">
+     <meta property="profile:gender" content="male">
+
+
+     <!-- OGP to images -->
+    <meta property="og:image" content="https://avatars1.githubusercontent.com/u/38007515?s=400&u=db02e130818c85ff69b15e544620a54a685cf367&v=4">
+    <meta property="og:image:type" content="image/jpg">
+    <meta property="og:image:width" content="460">
+    <meta property="og:image:height" content="460">
+
+    
+
+    <!-- Marcação JSON-LD gerada pelo Assistente de marcação para dados estruturados do Google. -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Person",
+  "name" : "Grupo sobre SEO",
+  "image" : "https://avatars1.githubusercontent.com/u/38007515?s=400&u=db02e130818c85ff69b15e544620a54a685cf367&v=4",
+  "email" : "facidsi2016.1@gmail.com",
+  "address" : {
+    "@type" : "PostalAddress",
+    "addressLocality" : "Teresina",
+    "addressRegion" : "Piauí",
+    "addressCountry" : "Brasil"
+  },
+  "url" : "http://localhost:4000/demo/demo-chartjs.html",
+  "sameAs": [
+    "https://www.facebook.com/",
+    "https://linkedin.com/in/",
+    "https://google.com/+",
+    "https://github.com/facidsiatividades"
+  ]
+}
+</script>
+
+
+  </head>
+
+
+  <body id="page-top">
+ 
+
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.3.0/Chart.min.js"></script>
+    <style type="text/css">
+    	
+    	body {
+		  font-family: Helvetica Neue, Arial, sans-serif;
+		  text-align: center;
+		}
+
+		.wrapper {
+		  max-width: 800px;
+		  margin: 50px auto;
+		}
+
+		h1 {
+		  font-weight: 200;
+		  font-size: 3em;
+		  margin: 0 0 0.1em 0;
+		}
+
+		h2 {
+		  font-weight: 200;
+		  font-size: 0.9em;
+		  margin: 0 0 50px;
+		  color: #999;
+		}
+
+		a {
+		  margin-top: 50px;
+		  display: block;
+		  color: #3e95cd;
+		}
+
+
+    </style>
+
+    <div class="wrapper">
+    
+      <h1>População Mundial ao longo do tempo</h1>
+      <h2>Número de pessoas (em milhões) vivendo na terra, nos últimos 500 anos</h2>
+
+      <canvas id="myChart" width="1600" height="900"></canvas>
+
+    <a href="http://localhost:4000/tecnologia/2017/11/19/visualizacao-de-dados-com-chartjs.html" class="btn btn-primary">Voltar ao post</a>
+    </div>
+
+   <script type="text/javascript">
+   	// Nossos rótulos para o eixo X
+	var years = [1500,1600,1700,1750,1800,1850,1900,1950,1999,2050];
+
+	// Para desenhar as linhas
+	var africa = [86,114,106,106,107,111,133,221,783,2478];
+	var asia = [282,350,411,502,635,809,947,1402,3700,5267];
+	var europe = [168,170,178,190,203,276,408,547,675,734];
+	var latinAmerica = [40,20,10,16,24,38,74,167,508,784];
+	var northAmerica = [6,3,2,2,7,26,82,172,312,433];
+
+	
+	var ctx = document.getElementById("myChart");
+	var myChart = new Chart(ctx, {
+	  type: 'line',
+	  data: {
+	    labels: years,
+	    datasets: [
+		    { 
+			  data: africa,
+			  label: "África",
+			  borderColor: "#3e95cd",
+			  fill: false
+			},
+			{ 
+			  data: asia,
+			  label: "Asia",
+			  borderColor: "#8e5ea2",
+			  fill: false
+			},
+			{ 
+			  data: europe,
+			  label: "Europe",
+			  borderColor: "#3cba9f",
+			  fill: false
+			},
+			{ 
+			  data: latinAmerica,
+			  label: "Latin America",
+			  borderColor: "#e8c3b9",
+			  fill: false
+			},
+			{ 
+			  data: northAmerica,
+			  label: "North America",
+			  borderColor: "#c45850",
+			  fill: false
+			}
+		]
+	  }
+	});
+   </script>
+
+
+
+  </body>
+
+</html>
