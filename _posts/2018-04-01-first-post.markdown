@@ -1,19 +1,14 @@
 ---
-layout: post
-comments: true
-title:  "Marketing Digital"
-subtitle: "O que é e como usar?"
+title: Marketing Digital
 author: Grupo SEO
-date:   2018-04-06 22:00:00 -0300
-last_modified_at: 2018-04-09 20:00:00 -0300
-category: Marketing
-tags: ["marketing", "marketing digital", "SEO"]
+layout: post
 ---
+
 <!-- <h2 style="text-align: center;">Marketing Digital</h2></br> -->
 
-<h2>O que é Marketing Digital</h2>
-
 Marketing Digital é o conjunto de estratégias voltadas para a promoção de uma marca na internet. Difere-se do marketing tradicional por envolver o uso diferentes canais online e métodos que permitem a análise dos resultados em tempo real.
+
+<h2>O que é Marketing Digital</h2>
 
 Hoje em dia, a internet está incorporada à nossa vida de tal maneira que é quase impossível fazer qualquer coisa sem ela. Desde coisas simples, como obter o telefone da pizzaria, até coisas complexas, como realizar pesquisas de opinião pública ou desenvolver um software de gestão de projetos, quase tudo passa pela internet.
 

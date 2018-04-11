@@ -24,7 +24,7 @@ A psicologia da busca gira em torno do usuário: suas necessidades, sua forma de
 
 Existem três tipos de busca:
 
-
+ **Pesquisa ou busca navegacional**
 
 Este tipo de pesquisa — também conhecida como pesquisa de atalho — é realizada quando o usuário já sabe para qual site gostaria de ir, mas talvez não se lembre da URL completa ou esteja com preguiça de digitar.
 
@@ -32,9 +32,8 @@ Por exemplo, se o usuário busca por “Rock Content” ou “blog da Rock Conte
 
 [seo pesquisa google](/imgs/o-que-e-seo.png)
 
- 
-
-	Pesquisa ou busca informacional
+  
+  **Pesquisa ou busca informacional**
 
 Como o próprio nome diz, na busca informacional o usuário busca por informações, seja por meio de notícias, releases de algum produto ou artigos explicativos.
 Ao contrário da pesquisa navegacional, nesse caso o usuário não sabe exatamente em qual site chegará para encontrar o conteúdo que procura, pois não é possível identificar claramente sua intenção de busca, por isso é tão importante que as empresas tenham um bom rankeamento no Google.
@@ -44,7 +43,7 @@ Por não saber exatamente qual site quer visitar, o usuário tende a utilizar os
 ![seo marketing digital ](/imgs/o-que-e-seo-2.png)
  
 
-	Pesquisa ou busca transacional
+ **Pesquisa ou busca transacional**
 
 Nesse tipo de pesquisa o usuário está buscando executar uma transação. Seja comprar diretamente um produto, encontrar uma loja, ou fazer qualquer outro tipo de transação online. Esse tipo de pesquisa é extremamente valiosa, especialmente para e-commerces.
 
