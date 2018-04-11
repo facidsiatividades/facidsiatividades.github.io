@@ -30,7 +30,8 @@ Este tipo de pesquisa — também conhecida como pesquisa de atalho — é reali
 
 Por exemplo, se o usuário busca por “Rock Content” ou “blog da Rock Content” para encontrar nossos conteúdos, sua intenção de pesquisa é clara e, por isso, são poucas as chances deste usuário mudar seu destino final na web — essa pessoa já sabe o que procura.
 
-![seo pesquisa google](/imgs/o-que-e-seo.png)
+[seo pesquisa google](/imgs/o-que-e-seo.png)
+
  
 
 	Pesquisa ou busca informacional
@@ -96,7 +97,8 @@ Os principais fatores de atenção em um título On Page:
 O SEO Title é o título que aparece nas SERPs e possui a função de levar o leitor até o seu conteúdo.
 Um exemplo bem simples: 
 
-![seo remarketing](/imgs/remark.png =150x)
+<!--![seo remarketing](/imgs/remark.png)-->
+<img src="remark.png" alt="seo remarketing" style="width: 200px">
 
 Ele é um dos fatores mais importantes tanto para rankeamento quanto para garantir uma alta taxa de cliques (CTR) no seu conteúdo.
 
