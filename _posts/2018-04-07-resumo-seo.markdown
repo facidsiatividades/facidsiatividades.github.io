@@ -97,7 +97,7 @@ Os principais fatores de atenção em um título On Page:
 O SEO Title é o título que aparece nas SERPs e possui a função de levar o leitor até o seu conteúdo.
 Um exemplo bem simples: 
 
-![seo remarketing](/imgs/remark2.png)
+![seo remarketing](/imgs/o-que-e-seo.png)
 
 Ele é um dos fatores mais importantes tanto para rankeamento quanto para garantir uma alta taxa de cliques (CTR) no seu conteúdo.
 
